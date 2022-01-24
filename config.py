@@ -1,0 +1,1 @@
+TOKEN = '1950825565:AAEYZ4gBEvB95DUgR6X0l6zu2MyIAGExXFo' # token bota from @BotFather
